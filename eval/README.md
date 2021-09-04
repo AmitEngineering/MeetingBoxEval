@@ -10,7 +10,7 @@
 
 -Source code Implementations 
 -index.php with search form
--getLatLongfrmAdd psot call from SearchGeoCode.php 
+-getLatLongfrmAdd post call from SearchGeoCode.php 
 -Search.js  uses jQuery call for Google Map and OS Map
 -properties/config.ini - configuration for Google Map and OSMap link
 -PHP Classes for Google Maps and OS Maps implementation
